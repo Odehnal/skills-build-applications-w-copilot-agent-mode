@@ -1,7 +1,7 @@
 {
   "name": "octofit-backend",
   "version": "1.0.0",
-  "description": "OctoFit Tracker backend API",
+  "description": "OctoFit Tracker backend API (trigger Step 3)",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
@@ -21,4 +21,5 @@
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.3.2"
   }
+  
 }
